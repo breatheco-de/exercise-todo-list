@@ -1,8 +1,7 @@
 import './App.css';
 import { useState } from 'react'
 import FormTodo from './components/FormTodo';
-import { faAlignCenter } from '@fortawesome/free-solid-svg-icons';
-import { faFontAwesomeLogoFull } from "@fortawesome/fontawesome-free";
+
 
 
 
@@ -42,7 +41,7 @@ const App = () => {
                       <li key={index} href="/#" className="list-group-item list-group-item-action">
                         {task}
                         <i className="fas fa-trash float-right" onClick={() => deleteTask(index)}
-                        ></i>
+                        >delete</i>
                       </li>
                     )
                   }) : (
