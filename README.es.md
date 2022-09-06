@@ -6,7 +6,7 @@
 
 Crea una aplicación de lista de TODO que permita a los usuarios agregar y eliminar tareas.
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱  ¿Cómo iniciar este proyecto?
 
 No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
 
