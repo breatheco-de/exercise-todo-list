@@ -1,10 +1,10 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) React TODO application
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) React TO-DO application
 
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true" />
 </p>
 
-Create a TODO list application that allows users to add and delete tasks.
+Create a TO-DO list application that allows users to add and delete tasks.
 
 ## 🌱  How to start this project
 
