@@ -1,4 +1,6 @@
+<!--hide-->
 # Applicación de TODO (tareas) con React.js
+<!--hide-->
 
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true" />
@@ -25,7 +27,7 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 - Las tareas se agregan cuando el usuario presiona enter en el teclado.
 - El icono de eliminar solo se muestra cuando la tarea está activada.
 - El usuario puede agregar tantas tareas como desee.
-- Cuando no hayan tareas pendientes la lista debería decir "No hay tareas, añadir tareas"
+- Cuando no haya tareas pendientes, la lista debería decir "No hay tareas, añadir tareas"
 - No hay forma de actualizar una tarea, el usuario tendrá que eliminarla y crearla de nuevo.
 
 ## 💡 Tips para terminar este proyecto
