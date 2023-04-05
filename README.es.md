@@ -25,7 +25,7 @@ b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
 
 - Tu aplicación debe verse [como esta imagen](https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true).
 - Las tareas se agregan cuando el usuario presiona enter en el teclado.
-- El icono de eliminar solo se muestra cuando la tarea está activada.
+- El icono de eliminar solo se muestra cuando pasamos el ratón por encima.
 - El usuario puede agregar tantas tareas como desee.
 - Cuando no haya tareas pendientes, la lista debería decir "No hay tareas, añadir tareas"
 - No hay forma de actualizar una tarea, el usuario tendrá que eliminarla y crearla de nuevo.
