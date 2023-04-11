@@ -1,6 +1,6 @@
-<!--hide-->
+<!-- hide -->
 # React TODO application
-<!--hide-->
+<!-- endhide -->
 
 <p align="center">
   <img height="200" src="https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true" />
