@@ -1,39 +1,45 @@
-<!--hide-->
-# Applicación de TODO (tareas) con React.js
-<!--hide-->
+<!-- hide -->
+# Aplicación de TODO (tareas) con React.js
+<!-- endhide -->
 
 <p align="center">
-  <img height="200" src="https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true" />
+  <img height="450" src="https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true" />
 </p>
 
 Crea una aplicación de lista de TODO que permita a los usuarios agregar y eliminar tareas.
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 Cómo comenzar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [react.js boilerplate](https://github.com/4GeeksAcademy/react-hello) en tu compjutador local o con Gitpod.
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello).
+Recomendamos abrir el `react.js boilerplate` usando un entorno de desarrollo como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal:
- ```sh
- git clone https://github.com/4GeeksAcademy/react-hello`.
+Este es el repositorio que necesitas abrir o clonar:
+
+```text
+https://github.com/4GeeksAcademy/react-hello
 ```
 
-💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+**👉 Por favor sigue estos pasos sobre** [cómo comenzar un proyecto de programación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
-### Instrucciones:
 
-- Tu aplicación debe verse [como esta imagen](https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true).
+> 💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
+
+## 📝 Instrucciones:
+
+- Tu aplicación debería [verse así](https://github.com/breatheco-de/exercise-todo-list/blob/master/preview.gif?raw=true).
 - Las tareas se agregan cuando el usuario presiona enter en el teclado.
-- El icono de eliminar solo se muestra cuando pasamos el ratón por encima.
+- El ícono de eliminar solo se muestra cuando pasas el ratón encima de la tarea (hover).
 - El usuario puede agregar tantas tareas como desee.
 - Cuando no haya tareas pendientes, la lista debería decir "No hay tareas, añadir tareas"
 - No hay forma de actualizar una tarea, el usuario tendrá que eliminarla y crearla de nuevo.
 
 ## 💡 Tips para terminar este proyecto
 
-No te pongas a codificar de inmediato, piensa primero y prepara una estrategia viable. 
+No te pongas con el código de inmediato, piensa primero y prepara una estrategia viable. 
 
 - ¿Qué componentes crearás? Dibuja tu proyecto en una hoja de papel e identifica los componentes.
 - ¿Dónde se almacenarán las tareas en tu componente?
-- Lee sobre [controlled components inputs in react.js](https://www.youtube.com/watch?v=A6YxkyR_T8c&t=15s), ya que deberás comprender el concepto.
+- Lee sobre [entradas controladas en react.js](https://4geeks.com/es/lesson/controlled-vs-uncontrolled-inputs-react-js-es), ya que deberás comprender el concepto.
+
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
