@@ -6,6 +6,7 @@
 	"difficulty": "intermediate",
 	"preview": "https://github.com/alesanchezr/exercise-todo-list/blob/master/preview.gif?raw=true",
 	"duration" : 16,
+	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"video-id": "https://www.loom.com/share/610516d1db32405a80fc43c7e5456634",
 	"technologies": ["javascript","react.js","js events"],
 	"description" : "Create a simple todo web app using the React.js framework",
