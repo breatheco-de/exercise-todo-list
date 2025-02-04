@@ -1,5 +1,9 @@
 {
-	"title" : "Todolist Application Using React",
+	"gitpod": true,
+	"title" : {
+    "us": "Todolist Application Using React",
+    "es": "Aplicación de Todolist usando React"
+},
 	"slug" : "todo-list",
 	"status": "published",
 	"solution": "https://github.com/breatheco-de/exercise-todo-list/tree/solution",
@@ -9,7 +13,10 @@
 	"template_url": "https://github.com/4GeeksAcademy/react-hello",
 	"video-id": "https://www.loom.com/share/610516d1db32405a80fc43c7e5456634",
 	"technologies": ["javascript","react.js","js events"],
-	"description" : "Create a simple todo web app using the React.js framework",
+	"description" : {
+    "us": "Create a simple TODO web app with React.js that allows users to add and delete tasks. Tasks can be added by pressing Enter, and the delete icon appears on hover. The app displays 'No tasks, add tasks' when empty. This project is perfect for learning React.js and building task management apps.",
+    "es": "Crea una sencilla aplicación web TODO con React.js que permita a los usuarios añadir y eliminar tareas. Las tareas se pueden añadir pulsando Intro, y el icono de borrado aparece al pasar el ratón por encima. La app muestra 'No tasks, add tasks' cuando está vacía. Este proyecto es perfecto para aprender React.js y construir aplicaciones de gestión de tareas."
+},
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },
 		{ "badge": "select-everything", "points": 5 },
@@ -29,5 +36,8 @@
 		{ "badge": "control-freak", "points": 5 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+    "telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=170"
+}
 }
